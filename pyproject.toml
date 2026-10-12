@@ -2,7 +2,7 @@
 name = "ppo-mujoco-halfcheetah"
 version = "0.1.0"
 description = "A PyTorch implementation of Proximal Policy Optimization (PPO) for training an agent to solve the HalfCheetah-v5 environment from Gymnasium using MuJoCo."
-authors = ["Giansimone Perrino <hello@giansimone.dev>"]
+authors = ["Giansimone Perrino <hello@giansimone.com>"]
 license = "MIT"
 readme = "README.md"
 repository = "https://github.com/giansimone/ppo-mujoco-halfcheetah"
